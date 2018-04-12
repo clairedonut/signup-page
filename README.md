@@ -1,6 +1,8 @@
 # Announcement - Coming Soon page
 
 I created a coming soon page for a gaming community (Death Stranding).
+
+
 This page integrates a Sign Up form which collects and registers emails to the associated Mail Chimp database .
 
 The final version is live and available [here](http://frenchstranding.fr/) !
